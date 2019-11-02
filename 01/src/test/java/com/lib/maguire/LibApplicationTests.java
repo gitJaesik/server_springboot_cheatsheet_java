@@ -1,4 +1,4 @@
-package com.lib.maguire.lib;
+package com.lib.maguire;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
